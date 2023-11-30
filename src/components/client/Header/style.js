@@ -7,7 +7,7 @@ export const Navbar = styled.nav`
   align-items: center;
   justify-content: space-between;
   padding: 0 2rem;
-  background-color: #0085d7;
+  background-color: midnightblue;
   color: white;
   ul {
     display: flex;
@@ -20,3 +20,4 @@ export const Navbar = styled.nav`
     }
   }
 `;
+
